@@ -59,15 +59,6 @@ int main() {
 				}
 			}
 		}
-		
-
-		//click poinit
-		//for(j = 0; j < count; j++) {
-		//	for(i = 0; i < count; i++) {
-		//		cout << "point at (" << p[j][i].x << ", " << p[j][i].y <<")\n";
-		//		//mouse_event (MOUSEEVENTF_LEFTDOWN | MOUSEEVENTF_LEFTUP, p[j][i].x, p[j][i].y, 0, 0 );
-		//	}
-		//}
     }
 	system("pause");
     return 0;
